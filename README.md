@@ -1,6 +1,7 @@
 # Favorite Things
 
 These are a few of my favorite things:
+- Whats up :)
 
 - Monsters Inc
 - Raindrops on roses
@@ -9,4 +10,3 @@ These are a few of my favorite things:
 - Warm woolen mittens
 - Not editing directly on GitHub
 
-- Whats up
